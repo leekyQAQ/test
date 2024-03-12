@@ -6,5 +6,5 @@ int main()
 	cout << "message from main branch";
 	cout << "message from function1 branch";
 	cout << "changed";
-	cout << "I love abongus" << endl;
+	cout << "Agongus if king" << endl;
 	}
