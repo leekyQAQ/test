@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="studente.cpp" />
+    <ClCompile Include="teacher.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="studente.h" />
