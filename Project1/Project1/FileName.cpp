@@ -9,4 +9,5 @@ int main()
 	cout << "Agongus if king" << endl;
 
 	cout << "test of owner";
+	test of owner2;
 	}
