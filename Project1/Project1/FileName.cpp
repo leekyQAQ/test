@@ -8,4 +8,5 @@ int main()
 	cout << "changed";
 	cout << "Agongus if king" << endl;
 
+	cout << "test of owner";
 	}
